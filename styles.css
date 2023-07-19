@@ -35,3 +35,16 @@ ul, ol {
     color: #C4CDC1;
     line-height: 25px;
 }
+
+.quote {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.scare {
+    width: 500px;
+}
+
+.warning {
+    color: red;
+    font-size: 25px;
+}
